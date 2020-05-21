@@ -1,3 +1,5 @@
+Implementation of A* search algorithm in c++ 
+
 function reconstruct_path(cameFrom, current)
     total_path := {current}
     while current in cameFrom.Keys:
